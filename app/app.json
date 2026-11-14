@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "LiftLog",
+    "name": "LiftLog Test",
     "slug": "liftlog",
     "version": "1.0.0",
     "userInterfaceStyle": "automatic",
@@ -90,7 +90,7 @@
     "scheme": "liftlog",
     "android": {
       "versionCode": 1,
-      "package": "com.limajuice.liftlog",
+      "package": "com.limajuice.liftlog.test",
       "softwareKeyboardLayoutMode": "pan",
       "permissions": [
         "com.android.vending.BILLING",
