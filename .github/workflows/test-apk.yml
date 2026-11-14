@@ -9,6 +9,8 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      EXPO_PUBLIC_REVENUECAT_GOOGLE_API_KEY: goog_dummy_key_for_test_build
     steps:
       - uses: actions/checkout@v6
 
